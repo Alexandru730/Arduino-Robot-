@@ -26,11 +26,8 @@ This repository contains the code for controlling a robot using an Arduino board
 ## Contributing
 Contributions to this project are welcome! If you encounter issues, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request on GitHub.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
-For inquiries, feedback, or support, please contact [your.email@example.com](mailto:your.email@example.com).
+For inquiries, feedback, or support, please contact [alexandruraduica18@gmail.com](mailto:alexandruraduica18@gmail.com).
 
 ## Acknowledgments
 - [Adafruit Industries](https://www.adafruit.com/) for their NeoPixel library.
